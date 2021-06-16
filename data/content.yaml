@@ -1,0 +1,165 @@
+BasicInfo:
+  FirstName: Ismael Angelo Jr.
+  LastName: Casimpan
+  Photo: img/icasimpan_pic.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +63 927 590 5185
+    - Icon: fas fa-envelope
+      Info: ismael.angelo@casimpan.com
+    - Icon: fas fa-globe
+      Info: https://ismael.casimpan.com
+    - Icon: fas fa-map-marker-alt
+      Info: Cebu, Philippines
+
+Profile: Experienced CompTIA Linux+/Security+ certified IT Professional who codes mostly in bash.
+
+Experience:
+  - Employer: PrometSource, Corp.
+    Place: Cebu City, PH
+    Positions:
+      - Title: System Administrator
+        Date: Jul 2017 - Jun 2021 (3yrs 11mos)
+        Details:
+          - Provides technical assistance and advise to mostly Drupal clients, including but not limited to:
+          - assisting them in their hosting challenges, either in RedHat or Debian based Linux
+          - monitoring their servers for both proactive and reactive measures to correct and prevent issues
+          - install, configure and maintain services for drupal stack such as nginx, apache, solr, mysql, varnish etc
+          - When there are no client tasks, time is used to improve internal tools and infrastructure automation using terraform, ansible and shell scripting.
+        Badges: ['git', 'jenkins', 'Linux', 'drupal', 'ansible', 'shell scripting', 'terraform', 'acquia', 'pantheon.io']
+
+  - Employer: Nokia Technology Center Phils, Inc. (Nokia Manila TC)
+    Place: Quezon City, PH
+    Positions:
+      - Title: Integration Manager(Software Build Engineer)
+        Date: Apr 2015 - Jul 2017 (2yrs 4mos)
+        Details:
+          - Global Support for various telecom software projects
+          - Cooperates mainly with counterparts in Wroclaw, Poland Nokia site
+          - Handles mainly RHEL-based systems
+          - Maintenance of internal tools composed of subversion, git, Linux, jenkins
+          - continuation of service after Nokia insourced its projects outsourced to Tieto
+        Badges: ['Software Build', 'SVN', 'Linux', 'git', 'jenkins']
+
+  - Employer: Tieto Global Oy Philippine Branch
+    Place: Cebu City, PH
+    Positions:
+      - Title: Software Production and Installation Engineer
+        Date: May 2012 - Mar 2015 (2yrs 10mos)
+        Details:
+          - Global Support for various telecom software projects
+          - Cooperates mainly with counterparts in Szczecin, Poland Tieto site
+          - Handles mainly RHEL-based systems
+          - Maintenance of internal tools composed of subversion, git, Linux, jenkins
+        Badges: ['Software Build', 'SVN', 'Linux', 'git', 'jenkins']
+
+  - Employer: Lexmark Research and Development Corp
+    Place: Cebu City, PH
+    Positions:
+      - Title: Software Build and Library Engineer
+        Date: Jan 2010 - May 2012 (2yrs 4mos)
+        Details:
+          - Officially assigned to do Sofware Build for Mac
+          - Global Support for Mac Lexmark Printer Driver Builds
+          - Installation/maintenance of Hudson and eventual migration to Jenkins after the official fork was stable enough
+          - Maintenance of existing custom build system in Perl and PHP
+          - Installation and maintenance of xserve and guest virtual machines
+          - Coordination with Infra Team whenever needing to do hands-on on the physical servers
+          - Maintenance of Subversion server
+        Badges: ['Software Build', 'SVN', 'Linux', 'Mac', 'XServe', 'Printer Driver Build']
+
+  - Employer: GoAbroad Philippines, Inc. (GoAbroad.com)
+    Place: Tacloban City, PH
+    Positions:
+      - Title: Seach Engine Optimization Analyst (Tech Team)
+        Date: Jul 2005 - Jan 2010 (4yrs 6mos)
+        Details:
+          - Official designation was Seach Engine Optimization Analyst but held unofficial designations
+          - Maintenance and continuous improvements of GoAbroad.com group of websites in major search engines Google and Yahoo
+          - Email Delivery and Email Abuse/Spam Management
+          - Configured centralized software configuration management using subversion
+          - Assist in configuring new websites
+          - Assist in configuring local development environments of newly hired programmers
+          - Account creation in servers in Denver, Colorado when Head Sysadmin was not available
+          - LAN maintenance of mixed Windows, Mac and Linux workstations/local servers
+          - Setup/maintenance of office VOIP using Asterisk
+          - Maintenance of local office internet connectivity and doing traffic shaping via pfSense router
+          - Ensure mail infrastructure complies with best practices for best results on newsletter sending
+          - Forged alliances with mail service providers like Microsoft, Yahoo, AOL, Google, etc through membership to their feedback loop mechanisms
+          - Trained local developers as backup personnel for managing the local infra
+          - Setup and Maintenance of web servers in Denver, Colorado using CentOS, PHP and Coldfusion
+          - Maintenance of Ubuntu local file server
+          - Shell scripting to partly automate repetitive tasks
+        Badges: ['SEO', 'Google Search', 'Yahoo Search', 'Email Deliverability', 'Email Abuse/Spam Management', 'Sysadmin', 'Linux Sysadmin', 'Subversion', 'LAMPP', 'Apache', 'Qmail', 'Eclipse', 'XAMPP', 'Shell Scripting', 'VOIP', 'pfSense', 'Windows', 'Macintosh', 'CentOS', 'PHP', 'ColdFusion', 'Ubuntu']
+
+  - Employer: Nozomi (Fortune) Services, Inc.
+    Place: Cebu City, PH
+    Positions:
+      - Title: R&D Technical Support Staff
+        Date: Feb 2004 - Jul 2005 (1yr 5mos)
+        Details:
+          - "Assigned at the Lexmark R&D Corporation's CPD Software Solutions Group - ECST(Macintosh)"
+          - "A Printer Test Support Team Member for Lexmark R&D Macintosh Developers, doing functionality testing for its under-development InkJet and AIO devices' drivers and firmware from early development to consumer release"
+          - "Has been a Sub-Project Team Lead for a Lexmark 2005 All-In-One Macintosh Printer, directing/managing its testing and then logging and tracking the corresponding bugs that are found in either firmware, hardware or software driver"
+        Badges: ['Software Testing', 'Firmware Testing', 'QA', 'Lexmark Printers', 'Macintosh Printers']
+
+  - Employer: AMA Computer College of Dumaguete
+    Place: Dumaguete City, PH
+    Positions:
+      - Title: College of Engineering Faculty
+        Date: May 2002 - Dec 2003 (1yr 7mos)
+        Details:
+          - "Handled higher major subjects for the Computer Eng'g & Computer Science Dept with the following areas of expertise and specialization:"
+          - Operating Systems 1 & 2(Using Linux & Win2K Platforms)
+          - Computer Organization and Architecture with Assembly Language
+          - Intel x86 Assembly Language
+          - System Level Programming (online icarnegie.com curriculum)
+          - C Language Programming
+          - PIC Microcontroller(PIC16F84)
+        Badges: ['Operating System', 'Linux', 'Windows', 'C Language', 'x86 Assembly Language']
+
+Education:
+  - Course: BSc Computer Engineering
+    Place: AMA Computer College of Cebu
+    Date: 1997 - 2001
+
+Skills:
+  - Family: Programming
+    Items:
+      - Bash
+      - HTML 
+      - SQL
+      - Python
+      - PERL
+      - Go
+  - Family: Frameworks
+    Items:
+      - Hugo
+      - SHCF
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Docker
+      - Jenkins
+      - SVN
+  - Family: Misc
+    Items:
+      - Linux
+      - Jira
+      - Confluence
+
+Languages:
+  - Name: English
+    Level: Professional
+  - Name: Filipino
+    Level: Native
+  - Name: Waray
+    Level: Native
+  - Name: Cebuano
+    Level: Native
+
+Diplomas:
+  - BS Computer Engineering (2001)
+  - CompTIA Security+ (Mar 2020 - Mar 2023)
+  - LPIC-1 Linux Administrator (Mar 2019 - Mar 2024)
+  - CompTIA Linux+ (Mar 2019 - No expiry)
